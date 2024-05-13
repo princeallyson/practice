@@ -60,6 +60,7 @@ function addWatermarkToSecondPage($pdfFile, $imageFile, $text, $outputFile) {
 addWatermarkToSecondPage('C:/xampp/htdocs/watermark/assets/pdf/document.pdf', 'assets/signature/Macalino_Esignature.png', 'Prince Allyson Macalino', 'output/output.pdf');
 
 echo 'Watermark added to the second page successfully!' .' Good job';
+echo "this is 2nd branch";
 
 ?>
 
