@@ -61,7 +61,10 @@ addWatermarkToSecondPage('C:/xampp/htdocs/watermark/assets/pdf/document.pdf', 'a
 
 echo 'Watermark added to the second page successfully!' .' Good job';
 echo "this is 2nd branch";
-echo "Added text before merging the new branch";
+
+echo "this is from new branch";
+
+
 
 ?>
 
