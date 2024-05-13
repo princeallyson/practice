@@ -1,0 +1,7 @@
+# ignore all.txt files
+*.txt
+
+
+#ingore vendor
+vendor/
+
